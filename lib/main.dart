@@ -30,7 +30,7 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Container(
           height: SizeConfig.safeBlockVertical * 25,
           width: SizeConfig.safeBlockHorizontal * 40,
-          color: Colors.black,
+          color: Colors.blue,
         ),
       ),
     );

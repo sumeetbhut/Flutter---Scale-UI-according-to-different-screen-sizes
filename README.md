@@ -1,9 +1,19 @@
-# Flutter - Effectively scale UI according to different screen sizes
+# Flutter Intro Slider App
 
-This is a companion GitHub page to the article available on Medium in the Flutter Community publication.
-It contains all the code covered in tha above mentioned article.
+theFlutterBlog - Flutter Scale UI according to different screen size
 
-## You can find me on the following social media:
+## Getting Started
 
-Instagram: [@dancamdev](https://www.instagram.com/dancamdev/)
-Twitter: [@dancamdev](https://twitter.com/dancamdev)
+<div style="text-align: center">
+    <table>
+        <tr>
+            <td style="text-align: center">
+                    <img src="https://user-images.githubusercontent.com/4372065/94894823-c240ac80-04a7-11eb-8552-9ebcd556da23.png" width="200"/>
+            </td>    
+            <td style="text-align: center">
+                    <img src="https://user-images.githubusercontent.com/4372065/94894834-c66cca00-04a7-11eb-9937-f007f1712d43.png" width="200"/>
+            </td>          
+        </tr>
+  </table>
+  </div>
+
