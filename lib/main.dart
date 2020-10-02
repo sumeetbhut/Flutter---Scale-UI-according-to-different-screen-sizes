@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Scale UI to fit multiple display sizes',
+      title: 'Scale UI to different multiple display sizes',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
@@ -30,7 +30,7 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Container(
           height: SizeConfig.safeBlockVertical * 25,
           width: SizeConfig.safeBlockHorizontal * 40,
-          color: Colors.blue,
+          color: Colors.yellow,
         ),
       ),
     );
